@@ -1,0 +1,16 @@
+#clone the repo 
+git clone 
+cd rsvpProject
+
+#cd into backend
+cd backend
+pip install -r requirements.txt
+#start the LOCAL server (keep terminal open)
+python app.py
+
+#new terminal 
+cd frontend 
+npm install
+npm start
+
+#should open localhost:3000 for frontend
