@@ -1,5 +1,5 @@
 #clone the repo 
-git clone 
+git clone https://github.com/colinc13/eventure-public.git
 cd rsvpProject
 
 #cd into backend
